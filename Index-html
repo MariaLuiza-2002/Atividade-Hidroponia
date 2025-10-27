@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="Hidroponia.css">
+</head>
+<body>
+
+    <div class="header">
+        <a href="#">Home</a>
+        <a href="#">Dicas</a>
+        <a href="#">Saiba mais</a>
+    </div>
+
+
+    <div class="main">
+
+        <Div class="fundo">
+           <img src="img fundo.jpg" alt="">
+        </Div>
+
+        <div class="texto">
+            <H1>BENEFICIOS DA HIDROPONIA</H1>
+            
+        </div>
+
+        <div class="caixas">
+
+            <div class="bene1">
+                Melhor eficiência da água
+               
+
+            </div>
+            <div class="bene2">Crescimento otimizado</div>
+            <div class="bene3">Flexibilidade</div>
+
+        </div>
+
+        
+    
+        
+    </div>
+        
+
+    
+
+    </div>
+    <div class="footer">
+      <a href="#">Acesse nossas rodes!</a>
+
+    </div>
+</body>
+</html>
